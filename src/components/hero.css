@@ -1,0 +1,9 @@
+#hero-sport {
+    clip-path: polygon(0 0, 100% 0, calc(100% - 20vh) 100%, 0 100%);
+    margin-right: -9.99vh;
+}
+
+#hero-tech {
+    clip-path: polygon(calc(20vh) 0, 100% 0, 100% 100%, 0 100%);
+    margin-left: -9.99vh;
+}
